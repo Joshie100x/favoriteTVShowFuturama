@@ -22,5 +22,50 @@
 }
 
 #largePadding {
-    padding-left: 600px;
+    padding-left: 650px;
+}
+
+.AlignCenter {
+    text-align: center;
+    background-color: rgba(183, 55, 247, 0.693);
+}
+
+.RightSideNav {
+    border-width: 1px;
+    border-style:dashed;
+    padding: 5px;
+}
+
+.col-sm-3 {
+    /* float: right; */
+    position: absolute; 
+    left: 73%;
+    top: 70px;
+    /* right: 10px; */
+    /* margin-right: 20px; */
+
+}
+/* 
+.col-md-10 {
+    margin-right: 10px;
+} */
+
+ul {
+    list-style: none;
+}
+
+.LinkNavMenuPadding {
+    padding-left: 20px;
+}
+
+.LinkNavMenuPaddingPlus {
+    padding-left: 60px;
+
+}
+
+.TableofContents {
+    border-width: 2px;
+    border-style: dashed;
+    padding: 5px;
+    border-color: black;
 }
